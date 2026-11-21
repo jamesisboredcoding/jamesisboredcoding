@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Byke<br>🌱 I’m currently learning ML & AI Engineering<br>⚡ Fun fact: Coding is dead, software engineering isn't
+🦊I like foxes<br>🔭 I’m currently working on Byke<br>🌱 I’m currently learning ML & AI Engineering<br>⚡ Fun fact: Coding is dead, software engineering isn't
 
 
 ## 🌐 Socials:
